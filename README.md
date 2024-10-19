@@ -1,5 +1,5 @@
 ## Installation/Update:
-* Just download and run [BlockTheSpot.bat](https://raw.githubusercontent.com/DkAnG3L/spotfi/refs/heads/main/BlockTheSpot.bat).
+* Just download and run [BlockTheSpot.bat](https://raw.githack.com/DkAnG3L/spotfi/refs/heads/main/BlockTheSpot.bat)
 
 or
 ### Fully automated installation via PowerShell.
